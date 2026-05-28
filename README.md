@@ -10,6 +10,11 @@ Desde una terminal ejecutar:
 
 El número de qubits es opcional.
 
+## Screenshots
+
+![Uso de la herramienta](screenshots/quantum_64.png)
+![Número aleatorio de 64 bits](screenshots/quantum_howto.png)
+
 ## Planes a futuro
 
 - Añadir soporte de IBM Quantum.
